@@ -16,3 +16,5 @@ This project is for practising Git and GitHub, including commits, branches, merg
 Learning Git and GitHub one step at a time!
 
 Next feature: add and manage tasks from the terminal.
+
+Learning how to pull changes from GitHub.
