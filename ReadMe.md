@@ -14,3 +14,5 @@ A simple task tracker built with JavaScript and Node.js.
 This project is for practising Git and GitHub, including commits, branches, merging, and pull requests.
 
 Learning Git and GitHub one step at a time!
+
+Next feature: add and manage tasks from the terminal.
