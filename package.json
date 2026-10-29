@@ -1,0 +1,10 @@
+
+{
+  "name": "js-task-tracker",
+  "version": "1.0.0",
+  "description": "A simple task tracker built while learning JavaScript and Git",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
