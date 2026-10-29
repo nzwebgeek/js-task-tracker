@@ -18,3 +18,5 @@ Learning Git and GitHub one step at a time!
 Next feature: add and manage tasks from the terminal.
 
 Learning how to pull changes from GitHub.
+
+Next goal: learn how to add, list, and complete tasks.
